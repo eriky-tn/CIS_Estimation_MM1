@@ -3,4 +3,8 @@
 .RData
 .Ruserdata
 .positai
+<<<<<<< HEAD
 *.Rproj
+=======
+.Rproj
+>>>>>>> 9f6adc0d3edc50e3719567dd8c494d8081f6c7ca
