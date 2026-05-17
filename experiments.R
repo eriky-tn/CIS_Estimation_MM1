@@ -1,17 +1,34 @@
 ################################################################################
-# Computes the numerical experiments presented in:
+# Title: Traffic Intensity Estimation for Single-Server Markovian Queueing Systems
 #
-# Saroja Kumar Singh; Abhijit Datta Banik; Eriky S. Gomes & Frederico R. B. Cruz
-# (2020). Estimating Traffic Intensity for Single Server Markovian Queueing 
-# System, T.B.A (submited).
+# Reference:
+# Singh, S. K., Gomes, E. S., Banik, A. D., Cruz, F. R. B. (2020).
+# Classical and Bayesian estimations of performance measures in a single server
+# Markovian queueing system based on arrivals during service times
+# Communications in Statistics - Theory and Methods, 3517-3546.
+# https://doi.org/10.1080/03610926.2022.2155789
 #
-# Programmed by:
+# Authors:
+# Eriky S. Gomes
+# Frederico R. B. Cruz
 #
-# Eriky S. Gomes & Frederico R. B. Cruz
-# Universidade Federal de Minas Gerais
-# E-mail: fcruz@est.ufmg.br
-# ? 2020 Gomes & Cruz
-# v.2021.10.18
+# Affiliation:
+# Department of Statistics
+# Universidade Federal de Minas Gerais (UFMG)
+#
+# Contact:
+# eriky-tn@ufmg.br
+# fcruz@est.ufmg.br
+#
+# Copyright (c) 2022 Gomes & Cruz
+# Version: v2022.02.08
+#
+# Description:
+# R script developed for computational experiments related to the article
+################################################################################
+
+install.packages("xlsx")
+library("xlsx")
 install.packages("xlsx")
 library("xlsx")
 ################################################################################
