@@ -1,5 +1,6 @@
 ################################################################################
-# Title: Traffic Intensity Estimation for Single-Server Markovian Queueing Systems
+# Title: Classical and Bayesian estimations of performance measures in a 
+# single server Markovian queueing system based on arrivals during service times
 #
 # Reference:
 # Singh, S. K., Gomes, E. S., Banik, A. D., Cruz, F. R. B. (2020).
