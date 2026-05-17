@@ -3,9 +3,9 @@
 # single server Markovian queueing system based on arrivals during service times
 #
 # Reference:
-# Singh, S. K., Gomes, E. S., Banik, A. D., Cruz, F. R. B. (2020).
+# Singh, S. K., Gomes, Cruz, F. R. B., E. S., Banik, A. D. (2020).
 # Classical and Bayesian estimations of performance measures in a single server
-# Markovian queueing system based on arrivals during service times
+# Markovian queueing system based on arrivals during service tismes
 # Communications in Statistics - Theory and Methods, 3517-3546.
 # https://doi.org/10.1080/03610926.2022.2155789
 #
@@ -1188,6 +1188,3 @@ save(rho,size,CredB,CredI,CredJ,file="TabCI.RData")
 CredB
 CredI
 CredJ
-################################################################################
-THE END
-################################################################################
